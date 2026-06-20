@@ -20,23 +20,24 @@
 
 I work on machine learning systems that learn and generate structure in physical and scientific domains.
 
+- Machine learning for scientific discovery
+- Generative AI systems
+- Applied artificial intelligence
+- Retrieval-augmented scientific reasoning systems
 - Generative models for inverse design problems
 - Physics-informed neural networks
-- Neural surrogate modeling for expensive simulations
-- AI-driven photonics and metamaterial design
-- Retrieval-augmented scientific reasoning systems
 
 ---
 
-## Flagship Research Systems
+## Flagship AI Research Systems
 
 ### Metasurface Inverse Design System (ISEF Project)
 
 AI system that maps electromagnetic spectral responses ↔ nanostructure geometries.
 
-- Conditional generative model for structured design generation  
+- Novel Conditional generative model for structured design generation  
 - CNN-based forward surrogate for fast physics approximation  
-- Closed-loop simulation validation (EM solvers)  
+- Closed-loop simulation validation (EM solvers)
 - Enables inverse design of optical / photonic devices  
 
 📌 Domain: computational photonics + generative design
@@ -58,7 +59,7 @@ Deep learning replacement for computationally expensive physics solvers.
 
 ### Retrieval-Augmented Scientific Systems
 
-Structured AI systems for domain-specific scientific reasoning.
+Structured LLM systems for domain-specific scientific reasoning.
 
 - Retrieval over technical corpora
 - Embedding-based semantic search
@@ -84,9 +85,9 @@ Structured AI systems for domain-specific scientific reasoning.
 
 ## Selected Outputs
 
-- 🥇 SSEF Gold Award (AI-based scientific design system)
-- 🌍 International Science and Engineering Fair (ISEF) participant
-- 🧪 Ongoing IEEE paper submission (AI for photonic inverse design)
+- 🥇 SSEF Gold Award (AI-based scientific design system for photonics)
+- 🌍 International Science and Engineering Fair (ISEF) Award Winner
+- 💻 AWS Best Project Award @ AWS Data Science Accelerator
 
 ---
 
