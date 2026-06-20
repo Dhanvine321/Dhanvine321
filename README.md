@@ -65,5 +65,5 @@ Data: structured scientific datasets (spectral / spatial)
 ---
 
 ## Contact
-LinkedIn: YOUR_LINK  
-Email: YOUR_EMAIL
+LinkedIn: https://www.linkedin.com/in/dhanvine-rameshkumar
+Email: rdhanvine321@gmail.com
