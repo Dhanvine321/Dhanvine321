@@ -2,7 +2,7 @@
 
 # Dhanvine Rameshkumar
 
-### AI Researcher | Generative Models | Full-Stack Developer | Scientific Machine Learning
+### AI Researcher | Full-Stack Developer | Scientific Machine Learning
 
 <img src="https://readme-typing-svg.herokuapp.com?lines=Generative+AI+for+Scientific+Systems;Physics-Informed+Machine+Learning;Inverse+Design+in+Photonics;Neural+Simulation+Surrogates" />
 
