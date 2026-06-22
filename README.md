@@ -29,7 +29,7 @@ I work on machine learning systems that learn and generate structure in physical
 
 ---
 
-## Flagship AI Research Systems
+## Selected Projects
 
 ### Metasurface Inverse Design System (ISEF Project)
 
