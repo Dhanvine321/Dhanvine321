@@ -71,23 +71,17 @@ Structured LLM systems for domain-specific scientific reasoning.
 ## Technical Stack
 
 **Machine Learning**
-- PyTorch · TensorFlow · CNNs · GANs · Diffusion Models
+- PyTorch | TensorFlow | Numpy | Pandas | Scikit-learn | Hugging Face Transformers | LangChain | LangGraph | etc
+
+**Web Development**
+- React | Vue.js | Tailwind CSS | Next.js | MongoDB | Flask/FastAPI Backend | etc
 
 **Engineering**
-- Python · FastAPI · NumPy · SciPy · C++
+- Python | FastAPI | NumPy | SciPy | C++ | etc
 
 **Scientific Computing**
-- Electromagnetic simulation tools
-- Numerical modeling pipelines
-- Data-driven physics systems
-
----
-
-## Selected Outputs
-
-- 🥇 SSEF Gold Award (AI-based scientific design system for photonics)
-- 🌍 International Science and Engineering Fair (ISEF) Award Winner
-- 💻 AWS Best Project Award @ AWS Data Science Accelerator
+- Electromagnetic simulation of wave and photonic systems (FDTD, COMSOL, Meep)
+- Numerical modeling of physical systems using discretized PDE solvers
 
 ---
 
